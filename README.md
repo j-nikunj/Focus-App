@@ -1,5 +1,6 @@
 🧠 Focus App – Productivity Dashboard
 A fully functional productivity dashboard that combines a Pomodoro timer, reminders, to-do tasks, stats tracking, and note-taking — all in a clean, responsive UI.
+
 🚀 Features
 ⏱ Focus Timer
 Start/Pause/Reset functionality
